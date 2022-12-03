@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -n src/*[A-Z]* /tmp/u/
+mv -n /*[A-Z]* /tmp/u/
